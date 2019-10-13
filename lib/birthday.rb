@@ -20,4 +20,4 @@ def age_appropriate_birthday(hash)
       puts "Happy Birthday#{name}! You are now #{age} years old!"
     end
   end
-end 
+end
